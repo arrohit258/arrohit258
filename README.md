@@ -1,5 +1,5 @@
-### Hi there 👋
-## Hi! I'm Rohit Arora 🙌
+### Hi there 
+##  I'm Rohit Arora 👋
 ### I'm a Software Developer and Competitive Programmer from Delhi, India.
 - 👨‍🎓 I'm a sophomore at **NSUT, Delhi**.
 - 💡 I'm **currently learning** about BlockChain.
