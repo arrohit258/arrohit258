@@ -1,4 +1,17 @@
 ### Hi there 👋
+## Hi! I'm Rohit Arora 🙌
+### I'm a Software Developer and Competitive Programmer from Delhi, India.
+- 👨‍🎓 I'm a sophomore at **NSUT, Delhi**.
+- 💡 I'm **currently learning** about BlockChain.
+- 💬 **Ask me** about data structures and cp.
+- 😄 **Pronouns**: He/His
+### 🌐 Connect with me : 
+ <a href="mailto:arrohit258@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
+ <a href="https://www.linkedin.com/in/its-rohit-arora/" target="_blank"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+
+
+
+
 
 <!--
 **arrohit258/arrohit258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
