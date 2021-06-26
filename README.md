@@ -3,7 +3,7 @@
 ### I'm a Software Developer and Competitive Programmer from Delhi, India.
 - 👨‍🎓 I'm a sophomore at **NSUT, Delhi**.
 - 💡 I'm **currently learning** about BlockChain.
-- 💬 **Ask me** about data structures and cp.
+- 💬 **Ask me** about data structures, cp and React.
 - 😄 **Pronouns**: He/His
 ### 🌐 Connect with me : 
  <a href="mailto:arrohit258@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
