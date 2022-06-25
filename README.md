@@ -2,7 +2,6 @@
 ##  I'm Rohit Arora 👋
 ### I'm a Software Developer and Competitive Programmer from Delhi, India.
 - 👨‍🎓 I'm a sophomore at **NSUT, Delhi**.
-- 💡 I'm **currently learning** about BlockChain.
 - 💬 **Ask me** about data structures, cp and React.
 - 😄 **Pronouns**: He/His
 ### 🌐 Connect with me : 
