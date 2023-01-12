@@ -1,7 +1,9 @@
 ### Hi there 
 ##  I'm Rohit Arora 👋
 ### I'm a Software Developer and Competitive Programmer from Delhi, India.
-- 👨‍🎓 I'm a sophomore at **NSUT, Delhi**.
+
+- 👨‍💻 My last role was as a Product Engineering Intern at Sprinklr.
+- 👨‍🎓 I'm a senior at **NSUT, Delhi**.
 - 💬 **Ask me** about data structures, cp and React.
 - 😄 **Pronouns**: He/His
 ### 🌐 Connect with me : 
