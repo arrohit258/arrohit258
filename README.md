@@ -1,5 +1,5 @@
-### Hi there 
-##  I'm Rohit Arora 👋
+### Hey there!
+##  I'm Rohit 👋
 ### I'm a Software Developer and Competitive Programmer from Delhi, India.
 
 - 👨‍💻 I have interned as a Product Engineer at Sprinklr.
